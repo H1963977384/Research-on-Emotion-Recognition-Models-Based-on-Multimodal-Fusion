@@ -1,1 +1,1 @@
-!(title.png)[./plot/title.png]
+![title.png](./plot/title.png)
